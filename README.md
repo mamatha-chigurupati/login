@@ -92,7 +92,7 @@ The page contains:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mamatha Chigurupati**
 
 ## 📄 License
 
